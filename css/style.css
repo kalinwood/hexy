@@ -1,0 +1,275 @@
+/*-----------------------------------*\
+	$RESET
+\*-----------------------------------*/
+
+* {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
+/*-----------------------------------*\
+	$LAYOUT
+\*-----------------------------------*/
+
+html {
+	font-family: 'Chivo', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: #fff;
+}
+
+h1 {
+	font-family: 'Chivo', sans-serif;
+	font-weight: 400;
+	font-size: 24px;
+	color: #666666;
+}
+
+p {
+	color: #666666;
+}
+
+a {
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	text-decoration: none;
+	color: #0088cc;
+}
+
+a:hover {
+	opacity: .8;
+}
+
+section {
+	text-align: center;
+	padding-top: 400px;
+	padding-bottom: 100px;
+	display: block;
+}
+
+.nav {
+	text-align: center;
+	background-color: white;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	padding: 15px 0px;
+	z-index: 100;
+	/* Adds shadow to the bottom of the bar */
+	-webkit-box-shadow: 0px 0px 8px 0px #000000;
+	-moz-box-shadow: 0px 0px 8px 0px #000000;
+	box-shadow: 0px 0px 8px 0px #000000;
+}
+
+.container {
+	max-width: 500px;
+	margin: 0 auto;
+	padding-top: 400px;
+	padding-bottom: 100px;
+}
+
+.unit {
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	padding-top: 40px;
+	float: left;
+}
+
+/*-----------------------------------*\
+	$ONE
+\*-----------------------------------*/
+
+.one {
+	background-color: #EF5F26;
+}
+
+.one-a {
+	background-color: #EF5F26;
+	border: 1px solid rgba(255, 255, 255, .2);
+}
+
+.one-b {
+	background-color: #072C59;
+}
+
+.one-c {
+	background-color: #093B77;
+}
+
+.one-d {
+	background-color: #3A6292;
+}
+
+.one-e {
+	background-color: #6B89AD;
+}
+
+/*-----------------------------------*\
+	$TWO
+\*-----------------------------------*/
+
+.two {
+	background-color: #00A99D;
+}
+
+.two-a {
+	background-color: #00A99D;
+	border: 1px solid rgba(255, 255, 255, .2);
+}
+
+.two-b {
+	background-color: #1A8856;
+}
+
+.two-c {
+	background-color: #22B573;
+}
+
+.two-d {
+	background-color: #4EC48F;
+}
+
+.two-e {
+	background-color: #7AD3AB;
+}
+
+/*-----------------------------------*\
+	$THREE
+\*-----------------------------------*/
+
+.three {
+	background-color: #AA2F1F;
+}
+
+.three-a {
+	background-color: #AA2F1F;
+	border: 1px solid rgba(255, 255, 255, .2);
+}
+
+.three-b {
+	background-color: #E34F34;
+}
+
+.three-c {
+	background-color: #F2F2F2;
+}
+
+.three-d {
+	background-color: #3598E0;
+}
+
+.three-e {
+	background-color: #2778B3;
+}
+
+/*-----------------------------------*\
+	$FOUR
+\*-----------------------------------*/
+
+.four {
+	background-color: #293544;
+}
+
+.four-a {
+	background-color: #293544;
+	border: 1px solid rgba(255, 255, 255, .2);
+}
+
+.four-b {
+	background-color: #252932;
+}
+
+.four-c {
+	background-color: #F2F2F2;
+}
+
+.four-d {
+	background-color: #195962;
+}
+
+.four-e {
+	background-color: #F56F6C;
+}
+
+/*-----------------------------------*\
+	$FIVE
+\*-----------------------------------*/
+
+.five {
+	background-color: #FFFFFF;
+}
+
+.five-a {
+	background-color: #FFFFFF;
+	border: 1px solid rgba(0, 0, 0, .2);
+}
+
+.five-b {
+	background-color: #B6C3CF;
+}
+
+.five-c {
+	background-color: #4E5659;
+}
+
+.five-d {
+	background-color: #ABE647;
+}
+
+.five-e {
+	background-color: #000001;
+}
+
+/*-----------------------------------*\
+	$SIX
+\*-----------------------------------*/
+
+.six {
+	background-color: #65669E;
+}
+
+.six-a {
+	background-color: #65669E;
+	border: 1px solid rgba(255, 255, 255, .2);
+}
+
+.six-b {
+	background-color: #3E4361;
+}
+
+.six-c {
+	background-color: #00BE9C;
+}
+
+.six-d {
+	background-color: #394165;
+}
+
+.six-e {
+	background-color: #2B2937;
+}
+
+/*-----------------------------------*\
+	$MORE
+\*-----------------------------------*/
+
+section.more {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: black;
+}
+
+footer {
+	background-color: #FFFFFF;
+	padding: 10px 10px;
+	text-align: center;
+	display: block;
+	width: 100%;
+	color: #0088cc;
+	text-decoration: none;
+}
