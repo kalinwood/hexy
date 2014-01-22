@@ -278,6 +278,67 @@ img {
 }
 
 /*-----------------------------------*\
+	$SEVEN
+\*-----------------------------------*/
+
+.seven {
+	background-color: #F2B33D;
+	height: 100%;
+}
+
+.seven-a {
+	background-color: #F2B33D;
+	border: 1px solid rgba(255, 255, 255, .2);
+}
+
+.seven-b {
+	background-color: #1E1E1F;
+}
+
+.seven-c {
+	background-color: #FFFBF5;
+}
+
+.seven-d {
+	background-color: #03658C;
+}
+
+.seven-e {
+	background-color: #D94D3F;
+}
+
+/*-----------------------------------*\
+	$EIGHT
+\*-----------------------------------*/
+
+.eight {
+	background-color: #969693;
+	height: 100%;
+}
+
+.eight-a {
+	background-color: #969693;
+	border: 1px solid rgba(255, 255, 255, .2);
+}
+
+.eight-b {
+	background-color: #CFCFCF;
+}
+
+.eight-c {
+	background-color: #223745;
+}
+
+.eight-d {
+	background-color: #1A1D26;
+}
+
+.eight-e {
+	background-color: #A6011E;
+}
+
+
+/*-----------------------------------*\
 	$MORE
 \*-----------------------------------*/
 
