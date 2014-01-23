@@ -337,6 +337,66 @@ img {
 	background-color: #A6011E;
 }
 
+/*-----------------------------------*\
+	$NINE
+\*-----------------------------------*/
+
+.nine {
+	background-color: #152C35;
+	height: 100%;
+}
+
+.nine-a {
+	background-color: #152C35;
+	border: 1px solid rgba(255, 255, 255, .2);
+}
+
+.nine-b {
+	background-color: #4995b4;
+}
+
+.nine-c {
+	background-color: #5f7781;
+}
+
+.nine-d {
+	background-color: #2a5668;
+}
+
+.nine-e {
+	background-color: #7fa5b4;
+}
+
+/*-----------------------------------*\
+	$TEN
+\*-----------------------------------*/
+
+.ten {
+	background-color: #E6E5CD;
+	height: 100%;
+}
+
+.ten-a {
+	background-color: #E6E5CD;
+	border: 1px solid rgba(0, 0, 0, .2);
+}
+
+.ten-b {
+	background-color: #B7C0A9;
+}
+
+.ten-c {
+	background-color: #5C6C6B;
+}
+
+.ten-d {
+	background-color: #14181E;
+}
+
+.ten-e {
+	background-color: #FFCE6E;
+}
+
 
 /*-----------------------------------*\
 	$MORE
